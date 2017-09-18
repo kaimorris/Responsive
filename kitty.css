@@ -5,7 +5,7 @@ body {
 @media screen and (min-width: 250px) {
 	img {
 	
-		content:url(images/sailormercury.PNG);
+		content:url(images/sailormerc.png);
 	}
 }
 @media screen and (min-width: 680px)  {
